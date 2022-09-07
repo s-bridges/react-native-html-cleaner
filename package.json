@@ -1,0 +1,17 @@
+{
+  "name": "react-native-html-cleaner",
+  "version": "1.0.0",
+  "description": "React Native HTML Cleaner that takes HTML and removes tags, but formats the return so that you can present the data as intended with the original markup.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.2"
+  }
+}
